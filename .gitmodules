@@ -1,0 +1,3 @@
+[submodule "deployment_server/vendor/serverpod"]
+	path = deployment_server/vendor/serverpod
+	url = https://github.com/serverpod/serverpod.git
